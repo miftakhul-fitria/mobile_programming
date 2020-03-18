@@ -19,4 +19,4 @@ UTS :
 
 Project ada di branch : uts-project
 
-Database dan PHP ada di branch : uts-db
+Database, PHP, dan Screenshoot ada di branch : uts-db
