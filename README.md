@@ -13,3 +13,7 @@ Database tugas dan PHP ada di branch :
 
         1. database-cobarepo
         2. database-mahasiswa (Untuk project tugas data-mahasiswa)
+        
+UTS :
+Project ada di branch : uts-project
+Database dan PHP ada di branch : uts-db
