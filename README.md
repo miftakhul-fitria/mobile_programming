@@ -8,6 +8,11 @@ Tugas ada di branch :
         6. recyclerview-slideshow
         7. sharedpreferences
         8. data-mahasiswa
+        
+        TUGAS SETELAH UTS :
+        1. progressbar
+        2. floating-action
+        3. bottom-sheets
 
 Database tugas dan PHP ada di branch :
 
